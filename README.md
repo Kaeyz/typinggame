@@ -1,0 +1,1 @@
+A simple Javascript typing game
